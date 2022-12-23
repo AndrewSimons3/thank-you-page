@@ -1,0 +1,17 @@
+body {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  
+  justify-content: center;
+  align-items: center;
+  background: #a0a9cc;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color:#15172b;
+}
